@@ -8,10 +8,14 @@ Python Libraries and Framework
 ➢ NLTK
 ➢ Seaborn 
 ➢ Job-Lib 
+
+
 Softwares Used
 ➢ Anaconda Navigator
 ➢ Visual Studio Code
 ➢ Jupyter notebook
+
+
 Installation
 • Model Construction
 ➢ Start the JUPYTER Notebook through Anaconda Navigator
